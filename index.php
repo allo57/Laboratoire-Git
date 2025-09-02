@@ -10,7 +10,7 @@
         body {
             font-family: Arial, sans-serif;
             margin: 40px;
-            background-color: #f4f4f4;
+            background-color: #000000;
         }
         .container {
             background: white;
